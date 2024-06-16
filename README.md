@@ -36,5 +36,5 @@ Pickle
 
 - CONCLUSION:
 Based on our experiment, we found that AdaBoostClassifier model outperforms the other models based on evaluation matrix report with precision “0.75”, recall “0.61” and F1 score “0.66”.
-We were successfully able to categorize each text message into its appropriate categories. We have even tested the model by providing the dummy messages to the model and it was able to classify whether the messages were related to disastrous
+We were successfully able to categorize each text message into its appropriate categories such as "Flood", "Storm", "aid_related" etc. We have even tested the model by providing the dummy messages to the model and it was able to classify whether the messages were related to disastrous
 events or not related.
