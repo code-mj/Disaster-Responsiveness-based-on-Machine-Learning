@@ -20,16 +20,16 @@ Binary --> 1= related, 0=not related.
 
 TOOLKITS:
 
-Jupyter Notebook
+Jupyter Notebook,
 VS Code
 
 Python Libraries:
-Pandas
-NumPy
-Scikit-learn 
-NLTK
-re
-SQLalchemy & SQLite3
+Pandas,
+NumPy,
+Scikit-learn, 
+NLTK,
+re,
+SQLalchemy & SQLite3,
 Pickle
 
 - Model was tried out using 5 classifiers: RandomForestClassifier, ExtraTreesClassifier, GradientBoostingClassifier, AdaBoostClassifier and Support Vector Classifier
